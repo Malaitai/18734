@@ -11,7 +11,22 @@ Teacher:
 
 # Instructions:
 
-1. Complete the following sections:
+## Complete the following:
+1. What is the purpose of the web page?
+
+*INSERT ANSWER HERE*
+
+2. Who is the target audience of the web page?
+
+*INSERT ANSWER HERE*
+
+3. What resources (e.g. images, videos etc) will you need to create your web page? 
+
+*INSERT ANSWER HERE*
+
+4. Create a conceptual design of the web page and upload it to your repository.
+
+5. 
 
 ## Outcome 1
 ### Plan a web page
