@@ -1,0 +1,66 @@
+/*
+Name: 
+Date: 
+*/
+
+:root{
+    --main-bg-colour: #05445e;
+    --sec-bg-colour: #189ab4;
+    --main-colour: #d4f1f4;
+    --sec-colour: #75e6da;
+}
+
+.container{
+    display: grid;
+    grid-template-columns:1fr 2fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "header header header"
+    "side1 section1 section1"
+    "section2 videoSection side2"
+    "footer footer footer";
+}
+
+.container > div{
+    padding: 10px;
+}
+
+.header{
+    grid-area: header;
+    background-color: var(--main-bg-colour);
+    color: var(--main-colour);
+}
+
+.main{
+    grid-area: main;
+    background-color: var(--sec-bg-colour);
+    color: var(--main-colour);
+}
+
+.side1{
+    grid-area: side1;
+    background-color: var(--main-colour);
+}
+
+.side2{
+    grid-area: side2;
+    background-color: var(--main-colour);
+}
+
+.section1{
+    grid-area: section1;
+}
+
+.section2{
+    grid-area: section2;
+}
+
+.videoSection{
+    grid-area: videoSection;
+}
+
+.footer{
+    grid-area: footer;
+    background-color: var(--main-bg-colour);
+    color: var(--main-colour);
+}
