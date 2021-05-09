@@ -11,7 +11,7 @@ Teacher:
 
 # Instructions:
 
-
+1. Complete the following sections:
 
 ## Outcome 1
 ### Plan a web page
@@ -24,7 +24,7 @@ Teacher:
 ### Enter text and graphics media for the web page using the provided template
 | Outcome | Evidence |
 | --- | --- |
-| 2.1 | Text is entered and formatted according to the requirements of the conceptual design and template, and is checked for correct spelling and grammar. |\
+| 2.1 | Text is entered and formatted according to the requirements of the conceptual design and template, and is checked for correct spelling and grammar. |
 | 2.2 | Graphics media is entered according to the requirements of the conceptual design and template. |
 
 ## Outcome 3
