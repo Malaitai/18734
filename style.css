@@ -10,7 +10,7 @@ Date:
     --sec-colour: #75e6da;
 }
 
-.container{
+.container{ /*DO NOT REMOVE OR EDIT*/
     display: grid;
     grid-template-columns:1fr 2fr 1fr;
     grid-template-rows: auto;
@@ -21,45 +21,45 @@ Date:
     "footer footer footer";
 }
 
-.container > div{
+.container > div{ /*DO NOT REMOVE*/
     padding: 10px;
 }
 
-.header{
+.header{ /*DO NOT REMOVE*/
     grid-area: header;
     background-color: var(--main-bg-colour);
     color: var(--main-colour);
 }
 
-.main{
+.main{ /*DO NOT REMOVE*/
     grid-area: main;
     background-color: var(--sec-bg-colour);
     color: var(--main-colour);
 }
 
-.side1{
+.side1{ /*DO NOT REMOVE*/
     grid-area: side1;
     background-color: var(--main-colour);
 }
 
-.side2{
+.side2{ /*DO NOT REMOVE*/
     grid-area: side2;
     background-color: var(--main-colour);
 }
 
-.section1{
+.section1{ /*DO NOT REMOVE*/
     grid-area: section1;
 }
 
-.section2{
+.section2{ /*DO NOT REMOVE*/
     grid-area: section2;
 }
 
-.videoSection{
+.videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
 }
 
-.footer{
+.footer{ /*DO NOT REMOVE*/
     grid-area: footer;
     background-color: var(--main-bg-colour);
     color: var(--main-colour);
