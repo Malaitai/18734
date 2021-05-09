@@ -17,7 +17,7 @@ Teacher:
 ### Plan a web page
 | Outcome | Evidence |
 | --- | --- |
-| 1.1 | The plan identifies the purpose and intended audience of the webpage and the reuqirements of the template to be used. |
+| 1.1 | The plan identifies the purpose and intended audience of the webpage and the requirements of the template to be used. |
 | 1.2 | The plan includes a conceptual design for the web page that meets the requirements of the template. |
 
 ## Outcome 2
