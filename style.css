@@ -3,13 +3,6 @@ Name:
 Date: 
 */
 
-:root{
-    --main-bg-colour: #05445e;
-    --sec-bg-colour: #189ab4;
-    --main-colour: #d4f1f4;
-    --sec-colour: #75e6da;
-}
-
 .container{ /*DO NOT REMOVE OR EDIT*/
     display: grid;
     grid-template-columns:1fr 2fr 1fr;
@@ -21,30 +14,20 @@ Date:
     "footer footer footer";
 }
 
-.container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
-}
-
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    background-color: var(--main-bg-colour);
-    color: var(--main-colour);
 }
 
 .main{ /*DO NOT REMOVE*/
     grid-area: main;
-    background-color: var(--sec-bg-colour);
-    color: var(--main-colour);
 }
 
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
-    background-color: var(--main-colour);
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
-    background-color: var(--main-colour);
 }
 
 .section1{ /*DO NOT REMOVE*/
@@ -61,6 +44,4 @@ Date:
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
-    background-color: var(--main-bg-colour);
-    color: var(--main-colour);
 }
