@@ -24,10 +24,6 @@ Teacher:
 
 *INSERT ANSWER HERE*
 
-4. Create a conceptual design of the web page and upload it to your repository.
-
-5. 
-
 ## Outcome 1
 ### Plan a web page
 | Outcome | Evidence |
